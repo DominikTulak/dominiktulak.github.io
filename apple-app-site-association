@@ -19,5 +19,11 @@
                 "paths": [ "/peoplepath/*" ]
             },
         ]
+    },
+    "webcredentials": {
+        "apps": [
+            "39XLDSZ8GP.com.intraworlds.peoplepath",
+            "39XLDSZ8GP.com.peoplepath.universal.alumni"
+        ]
     }
 }
