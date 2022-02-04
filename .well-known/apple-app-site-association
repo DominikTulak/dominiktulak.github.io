@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID":"39XLDSZ8GP.com.intraworlds.peoplepath",
+                "paths": [ "/qa-candy/*" ]
+            },
+            {
+                "appID":"39XLDSZ8GP.com.intraworlds.peoplepath",
+                "paths": [ "/peoplepath/*" ]
+            },
+            {
+                "appID":"39XLDSZ8GP.com.peoplepath.universal.alumni",
+                "paths": [ "/qa-candy/*" ]
+            },
+            {
+                "appID":"39XLDSZ8GP.com.peoplepath.universal.alumni",
+                "paths": [ "/peoplepath/*" ]
+            },
+        ]
+    }
+}
